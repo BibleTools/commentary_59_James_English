@@ -1,5 +1,14 @@
-# Bible Commentary - James
-Bible Commentary - 59 - James; published by Gospel Church (UK)
+# GospelChurch.uk Bible Commentary - James
+
+Welcome to the "GospelChurch.uk Bible Commentary" series, a comprehensive guide to understanding and studying the Bible. Our aim is to provide a valuable resource for bible teaching in churches, as well as to share our biblical material with others, both Christian and non-Christian alike. We offer this commentary as a free resource and ask that it not be used for commercial purposes.
+
+Each volume in our series provides an in-depth analysis of each book of the Bible, beginning with an informative introduction. Our introduction delves into the historical context, author, literary genre, central themes, theological concepts, key passages, and an outline of the book, providing readers with a solid foundation for understanding the text. 
+
+Following the introduction, we offer commentary on each section of the book according to the book outline. Our commentary includes seven key areas: highlights, context, themes, application, devotion, proclamation, and review. These sections provide readers with a comprehensive guide to each section of the book, offering insights into the meaning and significance of the text.
+
+We believe that our series of Bible commentary can bless the Kingdom of God, churches, and everyone who seeks to deepen their understanding of the Bible. We hope that this series will be a valuable resource for readers around the world, and we look forward to sharing our insights with all who seek to grow in their understanding and knowledge of the Word of God.
+
+Please refer to our license below if you are interested in incorporating our content into your own work. We offer it to you free of cost, on the condition that you [give us proper credit](https://www.gospelchurch.uk/?lang=en) for the work and that your use is for non-commercial purposes only. Please do not hesitate to [contact us](https://www.gospelchurch.uk/?lang=en) for any further inquiries. We would be grateful for the opportunity to assist you.
 
 # License
 
