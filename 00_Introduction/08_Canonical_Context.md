@@ -1,4 +1,4 @@
-# James in the Bible
+# Canonical Context
 
 The Book of James is one of the 27 books in the New Testament of the Bible, and it is classified as a general epistle. It is often compared to the teachings of Jesus, especially the Sermon on the Mount (Matthew 5-7), as it emphasizes practical application of faith through good works and righteous living. The book also shares similarities with the teachings of Paul, particularly in its emphasis on faith that leads to action, rather than mere talk or belief.
 
