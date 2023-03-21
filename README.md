@@ -10,8 +10,8 @@ We believe that our series of Bible commentary can bless the Kingdom of God, chu
 
 Please refer to [our license](https://github.com/BibleTools/commentary_59_James_English/blob/main/README.md#license) below if you are interested in incorporating our content into your own work. We offer it to you free of cost, on the condition that you [give us proper credit](https://www.gospelchurch.uk/?lang=en) for the work and that your use is for non-commercial purposes only. Please do not hesitate to [contact us](https://www.gospelchurch.uk/?lang=en) for any further inquiries. We would be grateful for the opportunity to assist you.
 
-Blessings,
-Rev. Eliran Wong
+Blessings,<br>
+Rev. Eliran Wong<br>
 [Gospel Church (UK)](https://www.gospelchurch.uk/?lang=en)
 
 # License
