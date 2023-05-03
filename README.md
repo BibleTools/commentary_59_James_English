@@ -46,6 +46,10 @@ Blessings,<br>
 
 [Commentary on James 5:19-20](https://github.com/BibleTools/commentary_59_James_English/tree/main/12_5.19-5.20)
 
+# Other Languages
+
+Chinese version is available at: https://github.com/BibleTools/commentary_59_James_TraditionalChinese
+
 # Support Us
 
 Thank you for your generosity! We would be humbled and grateful if you could consider making a donation to our cause. Please find our bank details below, so you can contribute in any way that is convenient for you. Your kindness is truly appreciated.
